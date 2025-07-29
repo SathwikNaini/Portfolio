@@ -1,21 +1,16 @@
 💼 Portfolio Website
 Welcome to my Personal Developer Portfolio! This project showcases my work, skills, and background as a web developer, using modern front-end technologies and responsive design.
 
-
-
-📁 Project Structure
-bash
-Copy
-Edit
 .
-├── index.html              # Main portfolio webpage
-├── index.css               # Core styling
-├── script.js               # Functionality & DOM interaction
-├── style-switcher.css      # Style switcher panel styles
-├── style-switcher.js       # Logic for theme switching
-├── styleskin.css           # Multiple theme skins/colors
-├── profile.png             # Profile image for portfolio
-├── README.md               # This file
+├── index.html              
+├── index.css               
+├── script.js               
+├── style-switcher.css      
+├── style-switcher.js       
+├── styleskin.css          
+├── profile.png             
+├── README.md   
+
 🌐 Features
 Responsive design for all screen sizes
 
