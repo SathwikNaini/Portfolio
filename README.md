@@ -58,17 +58,3 @@ If you have suggestions or ideas for improvements, feel free to:
 
 ---
 
-## 📄 License
-
-This project is licensed under the **ISC License**.  
-You are free to use and modify it for your own personal or professional projects.
-
----
-
-## 🙋‍♂️ Author
-
-**Naini Sathwik**  
-💻 Passionate Full Stack Developer from India  
-📫 Reach out on [LinkedIn](#) *(Add your LinkedIn or GitHub URL)*
-
----
